@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
 }
 .main-header{
     background-image: url(../img/pattern.png);
@@ -28,4 +29,13 @@
 main{
     margin-left: 75px;
     margin-right: 75px;
+}
+.yellow-marker{
+    background-color: yellow;
+}
+.description{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: 500;
 }
