@@ -9,7 +9,7 @@
     background-repeat: repeat;
     background-size: 200px 100px;
     height: 75px;
-    background-color: rgb(97, 4, 4);
+    background-color: rgb(3, 99, 105);
 }
 .logo{
     max-width: 150px;
@@ -45,11 +45,14 @@ main{
     border: 0;
     
 }
+th{
+    width: 33%;
+}
 .blue-table{
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(82, 205, 221);
 }
 .dark-blue-table{
-    background-color: rgb(97, 4, 4);
+    background-color: rgb(3, 99, 105);
 }
 .foto{
     width: 250px;
