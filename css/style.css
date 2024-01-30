@@ -46,11 +46,13 @@ main{
     font-weight: 500;
     margin-left: 20px;
 }
+table{
+    border-collapse: collapse;
+}
 .table-lorem{
     table-layout: fixed;
-    border-spacing: 0;
-    border: 0;
-    
+    text-align: left;
+    background-color: initial;
 }
 th{
     width: 33%;
